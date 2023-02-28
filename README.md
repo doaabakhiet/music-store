@@ -1,4 +1,8 @@
 # music-social-network
+#vue app dealing with laravel api 
+#using pinia store 
+#profile page 
+#authentications
 
 ## Project setup
 ```
